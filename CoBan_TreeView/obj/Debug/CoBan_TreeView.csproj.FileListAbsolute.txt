@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_TreeView\CoBan_TreeView\bin\Debug\CoBan_TreeView.exe.config
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_TreeView\CoBan_TreeView\bin\Debug\CoBan_TreeView.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_TreeView\CoBan_TreeView\bin\Debug\CoBan_TreeView.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_TreeView\CoBan_TreeView\obj\Debug\CoBan_TreeView.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_TreeView\CoBan_TreeView\obj\Debug\CoBan_TreeView.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_TreeView\CoBan_TreeView\obj\Debug\CoBan_TreeView.Form1.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_TreeView\CoBan_TreeView\obj\Debug\CoBan_TreeView.Properties.Resources.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_TreeView\CoBan_TreeView\obj\Debug\CoBan_TreeView.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_TreeView\CoBan_TreeView\obj\Debug\CoBan_TreeView.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_TreeView\CoBan_TreeView\obj\Debug\CoBan_TreeView.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_TreeView\CoBan_TreeView\obj\Debug\CoBan_TreeView.pdb
